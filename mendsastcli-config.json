@@ -8,8 +8,8 @@
         "maxFileSize": 5000,
         "timeouts": {
             "perFile": 200,
-            "perLanguage": 280,
-            "perScan": 280
+            "perLanguage": 180,
+            "perScan": 180
         }
     }   
 }
