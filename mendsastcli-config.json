@@ -5,11 +5,11 @@
         "javaEngineGeneration": 2,
         "csharpEngineGeneration": 2,
         "jsEngineGeneration": 2,
-        "maxFileSize": 1024,
+        "maxFileSize": 5000,
         "timeouts": {
-            "perFile": 300,
-            "perLanguage": 380,
-            "perScan": 380
+            "perFile": 200,
+            "perLanguage": 280,
+            "perScan": 280
         }
     }   
 }
